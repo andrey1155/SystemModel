@@ -1,0 +1,22 @@
+﻿  SystemModel.cpp
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(22,17): warning C4305: инициализация: усечение из "double" в "float"
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(106,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(127,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(135,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(160,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(167,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(352,33): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(366,33): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(378,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(386,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(422,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Code\Cpp projects\SystemModel\SystemModel.cpp(445,22): warning C4305: аргумент: усечение из "double" в "float"
+  SystemModel.vcxproj -> D:\Code\Cpp projects\SystemModel\Debug\SystemModel.exe
